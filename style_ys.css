@@ -2,3 +2,16 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+.bg-ys {
+    background-color: #17a2b8;
+  }
+  
+  @media screen and (min-width: 992px) {
+    .bg-ys {
+      background-color: #f8f9fa;
+    }
+  }
+
+.active-ys:active {
+    background-color: :lightgray;
+}
