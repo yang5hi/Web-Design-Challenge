@@ -3,7 +3,7 @@ The purpose of this project was to analyze how weather changes as you get closer
 
 After assembling the dataset, I used Matplolib to plot various aspects of the weather vs. latitude. Factors I looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.
 
-## use HTML and CSS to create a dashboard showing off the analysis
+## HTML and CSS (Bootstrap)
 
 In building this dashboard, I created individual pages for each plot and a means by which I can navigate between them. These pages will contain the visualizations and their corresponding explanations. I also have a landing page, a page where you can see a comparison of all of the plots, and another page where you can view the data used to build them.
 
